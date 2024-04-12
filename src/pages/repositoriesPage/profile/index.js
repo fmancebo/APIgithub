@@ -33,7 +33,13 @@ function Profile({ user }) {
         {user.company && (
           <Data>
             <MdWork size={20} />
-            {user.company}
+            <a
+              target="_black"
+              rel="noopener noreferrer"
+              href={`${user.company}`}
+            >
+              {user.company}
+            </a>
           </Data>
         )}
         {user.location && (
@@ -45,7 +51,9 @@ function Profile({ user }) {
         {user.blog && (
           <Data>
             <MdLink size={20} />
-            <a href={`\\${user.blog}`}>{user.blog}</a>
+            <a target="_black" rel="noopener noreferrer" href={`${user.blog}`}>
+              {user.blog}
+            </a>
           </Data>
         )}
       </Inner>
