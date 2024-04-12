@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "login": "fmancebo",
+      "id": 148500385,
+      "node_id": "U_kgDOCNnvoQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148500385?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/fmancebo",
+      "html_url": "https://github.com/fmancebo",
+      "followers_url": "https://api.github.com/users/fmancebo/followers",
+      "following_url": "https://api.github.com/users/fmancebo/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fmancebo/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fmancebo/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fmancebo/subscriptions",
+      "organizations_url": "https://api.github.com/users/fmancebo/orgs",
+      "repos_url": "https://api.github.com/users/fmancebo/repos",
+      "events_url": "https://api.github.com/users/fmancebo/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fmancebo/received_events",
+      "type": "User",
+      "site_admin": false,
+      "name": "Felipe Mancebo",
+      "company": null,
+      "blog": "https://felipemancebo.dev",
+      "location": "Nova Friburgo, Rio de Janeiro",
+      "email": null,
+      "hireable": null,
+      "bio": "Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvimento Web | HTML | CSS | JavaScript |  TypeScript ",
+      "twitter_username": null,
+      "public_repos": 13,
+      "public_gists": 0,
+      "followers": 0,
+      "following": 0,
+      "created_at": "2023-10-19T21:24:29Z",
+      "updated_at": "2024-04-10T19:02:34Z"
+    }
+  ]
+}

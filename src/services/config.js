@@ -1,0 +1,16 @@
+export const langColors = {
+  javascript: " #f1c40f",
+  python: " #2ecc71",
+  typescript: "#2b7489",
+  java: "#b07219",
+  php: "#4F5D95",
+  swift: "#ffac45",
+  go: "#00ADD8",
+  ruby: "#701516",
+  rust: "#dea584",
+  html: "#e67e22",
+  css: "#9b59b6",
+  c: "#16a085",
+  "c++": "#7f8c8d",
+  "c#": "#27ae60",
+};
